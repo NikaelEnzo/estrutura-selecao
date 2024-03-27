@@ -7,4 +7,6 @@ let string = null;
 
 if (string == null) {
     console.log("Vazia")
+} else {
+    console.log("não vazia")
 }
